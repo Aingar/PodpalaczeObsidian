@@ -1,0 +1,1 @@
+Smoczy Bóg Sprawiedliwości. Jedyny Platynowy Smok.

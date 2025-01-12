@@ -1,0 +1,1 @@
+Duże miasto znajdujące się na [[Wybrzeże Mieczy|Wybrzeżu Mieczy]].

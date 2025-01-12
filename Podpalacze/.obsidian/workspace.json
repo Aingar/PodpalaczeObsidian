@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "3cbe7f2aca35a867",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88fa93f9379e1a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c90713eb9c1bb2a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc27f6d63ea4faba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e16a3975621e3475",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db4fc80a003082ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ecd748db9f77c809",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aedc01a092305a73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92dd96e916306ab4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b105c238a1d510c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9202f72a8f54cee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "5c491af19b107e1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "8c839cd3f7ef48f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b47e28d6eef738b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "google-drive-sync:Push to Google Drive": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2c90713eb9c1bb2a",
+  "lastOpenFiles": [
+    "Luskan.md",
+    "Sildar Hallwinter.md",
+    "Rdzeń Ciemności.md",
+    "Puszcza Neverwinter.md",
+    "Podpalacze.md",
+    "Pasted image 20250110033049.png",
+    "Pasted image 20250110033036.png",
+    "Pasted image 20250110032948.png",
+    "Pasted image 20250110032943.png",
+    "Mithrilowa Milicja.md",
+    "Menzoberranzan.md",
+    "Lolth.md",
+    "Kroniki Samotnego Rzemieślnika.md",
+    "Krak.md",
+    "Gundren Rockseeker.md",
+    "Gracklstugh.md",
+    "Faerzress.md",
+    "Eilistraee.md",
+    "Duergar.md",
+    "Drzazga.md",
+    "Czerwone Znamię.md",
+    "Czerwona Wdowa.md",
+    "Czarny Pająk.md",
+    "Cornan.md",
+    "Bracia Rockseeker.md",
+    "Borborygmos.md",
+    "Bahamut.md",
+    "Wrogowie/Venomfang.md",
+    "Wrogowie/Bodak.md",
+    "Wrogowie",
+    "Prywatne notatki",
+    "Postaci/Reidoth.md",
+    "Postaci",
+    "Organizacje",
+    "Obrazy/Sildar.png",
+    "Obrazy/PhandalinMap.png",
+    "Obrazy/Lolth.png",
+    "Obrazy/FaerunMap.png",
+    "Obrazy/Dalgur Neverember.png",
+    "Obrazy/Bodak.png",
+    "Obrazy",
+    "Lokacje"
+  ]
+}
