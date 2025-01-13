@@ -1,0 +1,5 @@
+Podrasa [[Elf|Elfów]] żyjąca w zdecydowanej większości w [[Podmrok|Podmroku]]. Wyznają złą i kapryśną boginię jaką jest [[Lolth]], Pajęcza Królowa.
+
+Drowy posiadają kilka miast rozsianych po [[Podmrok|Podmroku]], lecz żadne nie urasta ogromem do [[Menzoberranzan]], Miasto Pająków, które uchodzi za największe podziemne miasto na świecie. Życie Drowa pełne jest knucia, spisków i poniżenia. Ich kultura jest matriarchatem, gdzie mężczyżni są traktowani jako sługi, mięso armatnie oraz rozpłodnicy, podczas gdy kobiety cieszą się (względnie) miłym okiem [[Lolth]], gdyż jedynie drowie kobiety bowiem mogą zostać jej kapłankami.
+
+Nieliczne Drowy którzy żyją na powierzchni to w większości wyznawcy [[Eilistraee]], Srebrnej Pani, którzy zbiegli przed okrutnym życiem pod jarzmem [[Lolth]]. Ich Pani wymaga od nich jedynie szerzenia radości, tańca i śpiewu.
