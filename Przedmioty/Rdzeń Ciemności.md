@@ -9,3 +9,5 @@ Po konsultacji z niedawno przybyłym w mieście klerykiem Bahamuta, [[Venomfang|
 Na prośbę [[Venomfang|Venfan'a]], rdzeń został mu wręczony, a on czym prędzej się ulotnił podczas gdy [[Podpalacze]] uciekała gdzie popadnie, gdy jaskina w której się znajdowali zaczęła się walić.
 
 Spotkali oni "Kleryka" niedługo potem, gdzie jego prawdziwa forma znajomemu im [[Venomfang|Zielonego Smoka]] została ujawniona. Skonsumował on rdzeń, co poskutkowało transformacją w [[Smok Cienia|Smoka Cienia]].
+
+![[Pasted image 20250116094957.png]]
