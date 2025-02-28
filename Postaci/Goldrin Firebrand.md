@@ -1,0 +1,1 @@
+[[Duergar]] mieszkający w [[Gracklstugh]], para się organizacją walk gladiatorów.
