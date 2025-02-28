@@ -2,4 +2,4 @@
 
 Zatrudnił [[Borborygmos|Borborygmosa]] jako gladiatora pod pseudonimem Drax Niszczyciel.
 
-Nosi monokl na lewym oku oraz piracką opaskę na prawym oku.
+Nosi monokl na lewym oku oraz piracką opaskę na prawym oku oraz ma irokeza.
