@@ -1,3 +1,3 @@
 Najstarszy z [[Bracia Rockseeker|Braci Rockseeker]]. Zwerbował on [[Podpalacze|grupę awanturników]] do eskorty wozu sprzętu górniczego, co doprowadziło do zabezpieczenia [[Magiczna Kuźnia Phandelver|Magicznej Kuźni Phandalin]].
 
-Został on porwany razem z [[Sildar Hallwinter|Sildarem Hallwinterem]] przez gobliny na usługach [[Czarny Pająk|Czarnego Pająka]], a potem uratowany przez zwerbowanych przez siebie awanturników.
+Został on porwany razem z [[Sildar Hallwinter|Sildarem Hallwinterem]] przez gobliny na usługach [[Czarny Pająk|Czarnego Pająka]], a potem uratowany przez zwerbowanych przez siebie awanturników.![[Gundren-rockseeker.webp]]

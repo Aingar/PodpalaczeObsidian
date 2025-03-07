@@ -1,0 +1,1 @@
+Rasa inteligentnych ptaków o względnie humanoidalnych sylwetkach.

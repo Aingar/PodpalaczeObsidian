@@ -1,1 +1,1 @@
-Smoczy Bóg Sprawiedliwości. Jedyny Platynowy Smok.
+Smoczy Bóg Sprawiedliwości. Jedyny Platynowy Smok.![[Aspect_of_Bahamut.webp]]

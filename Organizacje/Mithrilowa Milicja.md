@@ -2,7 +2,7 @@
 
 Napotkany przez [[Podpalacze|Podpalaczy]] w drodze do [[Dram'Gur]], mieli za zadanie znaleźć [[Kroniki Samotnego Rzemieślnika]] i się ich pozbyć na dobre, jednakże stał im na drodze Żelazny Golem.
 
-[[Podpalacze]] zostali zwerbowani, a zapłatą miały być wskazówki jak trafić do [[Dram'Gur]] oraz rzeczona [[Kroniki Samotnego Rzemieślnika|Kronika]], którą wynegocjował [[Cornan]].  Aggronorowi było wszystko jedno tak długo jak żaden [[Duergar]] nie położy na nich więcej ręki.
+[[Podpalacze]] zostali zwerbowani, a zapłatą miały być wskazówki jak trafić do [[Dram'Gur]] oraz rzeczona [[Kroniki Samotnego Rzemieślnika|Kronika]], którą wynegocjował [[Kornan]].  Aggronorowi było wszystko jedno tak długo jak żaden [[Duergar]] nie położy na nich więcej ręki.
 
 Wspólnymi siłami atak na Golema odniósł spektakularny sukces, i oddział po krótkim pożegnaniu wyruszył w drogę powrotną do [[Gracklstugh|Miasta Ostrzy]].
 

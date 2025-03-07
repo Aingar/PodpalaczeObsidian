@@ -1,8 +1,8 @@
-Dziwny artefakt, w kształcie sfery wypełnionej gęstą, wirującą szarą mgłą. Pochłaniał wszelką negatywną energię w okolicy jak również wchodził w silną, wybuchową niemal reakcję ze świętą energią, jak naprzykład rozświetlonym Lightbringer'em. Odnaleziony przez [[Cornan|Cornana]] wśród resztek spotkanego w [[Podmrok|Podmroku]] nieumarłego stwora o nazwie [[Bodak]].
+Dziwny artefakt, w kształcie sfery wypełnionej gęstą, wirującą szarą mgłą. Pochłaniał wszelką negatywną energię w okolicy jak również wchodził w silną, wybuchową niemal reakcję ze świętą energią, jak naprzykład rozświetlonym Lightbringer'em. Odnaleziony przez [[Kornan|Cornana]] wśród resztek spotkanego w [[Podmrok|Podmroku]] nieumarłego stwora o nazwie [[Bodak]].
 
-Po odnalezieniu go, [[Cornan]] otrzymał wizję od swojego boga [[Kelemvor, Bóg Śmierci|Kelemvora]]. W wizji został on poprowadzony na północ, do [[Svirneblin|Małych Braci]]/[[Tirluten]].
+Po odnalezieniu go, [[Kornan]] otrzymał wizję od swojego boga [[Kelemvor, Bóg Śmierci|Kelemvora]]. W wizji został on poprowadzony na północ, do [[Svirneblin|Małych Braci]]/[[Tirluten]].
 
-Tam, [[Cornan]] i reszta [[Podpalacze|Podpalaczy]] dowiedzieli się o pladze nieumarłych pochodzącej ze starożytnej wręcz kapliczki starej Trójcy Umarłych. Zbliżenie się do niej było obecnie niemożliwe przez śmiertelną miazmę.
+Tam, [[Kornan]] i reszta [[Podpalacze|Podpalaczy]] dowiedzieli się o pladze nieumarłych pochodzącej ze starożytnej wręcz kapliczki starej Trójcy Umarłych. Zbliżenie się do niej było obecnie niemożliwe przez śmiertelną miazmę.
 
 Po konsultacji z niedawno przybyłym w mieście klerykiem Bahamuta, [[Venomfang|Venfanem]], Rdzeń okazał się być sposobem dla żywej istoty by zbliżyć się do kaplicy, pochłaniając miazmę do swego wnętrza. Po długim marszu i kilku potyczkach z nieumarłymi doszło do wyczerpującego rytuału udało się zniszczyć kaplicę, a Rdzeń został nasycony w pełni.
 

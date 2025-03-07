@@ -1,1 +1,0 @@
-Pół-elfi Czarodziej/Kleryk boga [[Kelemvor, Bóg Śmierci|Kelemvora]], członek [[Podpalacze|Podpalaczy]].
