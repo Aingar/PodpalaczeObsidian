@@ -1,0 +1,2 @@
+Większość salamander jest arogancka, ale jednocześnie ciekawska – dążą do tworzenia kunsztownych płomieni lub spalania tego, co nigdy wcześniej nie zostało spalone. Chętnie objaśniają swoje dzieło nieznajomym, zanim spróbują ustalić, jak oni sami płoną. Salamandry emitują intensywne ciepło, które przewodzą ich płonące bronie.
+![[Pasted image 20250309203058.png]]
