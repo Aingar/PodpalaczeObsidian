@@ -1,0 +1,9 @@
+Podpalacze zgodzili się podjęcia próby pomocy, w czym potencjalnie mógłby im pomóc niejaki Venfan Obsydianek, Svirnebliński przybłęda który trafił do miasta parę dni temu, twierdząc że może pomóc z problemem miasta jeżeli zostałby mu przydzielony oddział, na co nie wyrażono zgody.
+
+Zanim jednak Kapitan Grunde i drużyna dotarli do chatki okupowanej przez jegomościa, rozległy się trzy dudnięcia rogu, na co spanikowany Kapitan rozkazał wszystkim biec na drugi koniec jaskini. Okazało się że miasto jest celem kolejnego szturmu nieumarłych. Wejście do miasta było już zabarykadowane, a trójka kapłanów dokonywała jakiegoś rytuału. Kapitan rozkazał utrzymanie barykady przez przynajmniej minutę, i obrona zaczeła się na dobre.
+
+Horda na początku wydawała się nie być wielce niebezpieczna, lecz każdy zgładzony nieumarły był natychmiast zastępowany kolejnym wyłaniającym się z tunelu. Pomimo rozkazów i ostrzeżeń Kapitana, Podpalacze poprowadzili mężną kontr-ofensywę, która szła bardzo gładko do momentu aż wśród napastników nie zjawił się Zombie Beholder, który jednym tylko spojrzeniem znokautował Kornana. Przez moment wszystko wyglądało jakby to mógł być koniec tej przygody ale... 
+
+Beholder był NAPRAWDĘ głupi. Wrodzona paranoja połączona z ewidentnym brakiem więcej niż pięciu szarych komórek sprawiła że Beholder raz za razem miotał swoim Promieniem Dezintegrującym w iluzje tworzone przez Drzazgę, które skutkowały w ogniu bratobójczym. Niestety horda wciąż rosła i gęstniała.
+
+W końcu, minuta która wydawała się trwać godzinami, nadeszła końcowi, i Gnomi rytuał został zakończony. Wyznawcy Callardurana przyzwali Żywiołaka Magmy, który niewiele zważając na barykady, oraz panicznie schodzących mu z drogi obrońców, wtoczył się w tunel i samodzielnie zalał całą hordę potokiem stopionej skały, zalewając tunej oraz obrońców dymem i zapachem palonego ciała. 
