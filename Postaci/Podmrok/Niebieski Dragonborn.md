@@ -1,0 +1,1 @@
+Przybył do [[Gracklstugh]] razem z [[Wysoka Kapłanka Chalitana]]. Czuć od niego magiczną aurę, wydaje się silnym czarownikiem. Gdy szli konwojem przez miasto, wytworzył ogromny symbol [[Lolth]] nad ich głowami.

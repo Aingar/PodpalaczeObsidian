@@ -7,3 +7,7 @@ Alter ego [[Borborygmos|Borborygmosa]] stworzone na potrzeby walk na arenie w [[
 Pokonani wrogowie:
  - [[Minotaur]]
  - [[Salamander]] 
+
+# Kolejna Walka
+
+Następny przeciwnik to :[[Niewidoma Krasnoludzica]]
