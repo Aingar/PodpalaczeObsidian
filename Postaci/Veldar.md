@@ -1,1 +1,0 @@
-Ludzki najemnik spotkany w [[Gracklstugh]] przebywał w karczmie [[Złamany Maszt]]. Podpowiedział nam o bestii pływającej w jeziorze leżącym obok stolicy oraz sprzedał nam po korzystnej cenie magiczny krasnoludzki pas.

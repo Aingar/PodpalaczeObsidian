@@ -1,0 +1,7 @@
+Z samego rana [[Krak]] i [[Drzazga]] ruszyli do portu gdzie weszli na pokład statku, zostali podstawowo uzbrojeni na czas rejsu i ruszyli w stronę [[Nau'karwhal]]. Podróż przebiegła powoli i bez jakichkolwiek komplikacji. Korzystając z okazji oraz [[Steve|Steve'a]], Drzazga dowiedział się że towarem przewożonym przez ich statek jest tuzin niewolników.
+
+Po dopłynięciu do miasta portowego, ich dwójka postanowiła przyjrzeć się sprawie i przenocować w dość spartańskich warunkach. Dowiedzieli się oni że niewolnicy zostaną sprzedani [[Drow|Drowom]]. Nie mając wiele więcej do zrobienia, ruszyli więc pieszo w stronę [[Gracklstugh]], maszerując wzdłuż brzegu podziemnego jeziora. Po drodze zostali napadnięci przez Beholdero-podobną, lecz dużo bardziej oślizgłą i obrzydliwą bestię, z którą Krak musiał walczyć samotnie z minimalnym wsparciem od nieuzbrojonego Drzazgi.
+
+Niedługo po tym jak nasza para bohaterów pokonała stwora, usłyszeli za sobą powolne klaskanie, Venfan aka [[Venomfang]] ujawnił się przed nimi. O dziwo nie był zainteresowany oddzieleniem ich głów od ich ciał, zamiast tego przedstawił im ofertę nie do odrzucenia: Przekazać pewien list [[Themberchaud|Themberchaudowi]], lub zginąć na miejscu. Alternatywnie zginąć jeżeli nie zrobią tego w przeciągu tygodnia, alternatywnie zginąć przy próbie podejrzenia zawartości listu.
+
+Po dość niechętnym przyjęciu 'przyjacielskiej oferty', skoczył do ciemnych wód [[Darklake]] niczym śliwka w kompot. Krak i Drzazga ruszyli spowrotem do miasta gdzie złączyli się z Kornanem i Borem świętującymi zwycięstwo na arenie.

@@ -1,0 +1,1 @@
+Gospoda w [[Gracklstugh]], jeden z niewielu przybytków otwarcie przyjmujących gości spoza miasta. [[Podpalacze]] spotkali tam [[Veldar|Veldara]] i jego grupkę [[Zhentarimowie|Zhentarimów]] będących tu w interesach.

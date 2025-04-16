@@ -1,0 +1,3 @@
+Drowia kobieta która ma przybyć na do [[Gracklstugh]], podobno ma coś wspólnego z kolejną walką [[Drax Niszczyciel|Draxa]] na arenie. Ma się pojawić z samego rana w porcie w północnej części miasta. 
+
+Przybyła do miasta z orszakiem kilkudziesięciu niewolników, ośmioma strażnikami oraz [[Drider|Driderem]], jak i trójką nietypowych osób: Ślepej Krasnoludki Wojowniczki, Zamaskowanej Elfki oraz niebieskiego Dragonborna czarodzeja.

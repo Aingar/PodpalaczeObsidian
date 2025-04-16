@@ -6,3 +6,4 @@ Oferta jest wyjątkowo interesująca, za wykonanie zadania czekają takie nagrod
  - 1000 - Jeśli kielich wróci nienaruszony
  - +1000 - dodatkowo za informację kto ukradł kielich
  - +1000 - dodatkowo za informację dlaczego kielich ukradziono
+
